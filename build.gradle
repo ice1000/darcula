@@ -1,3 +1,5 @@
+apply plugin: 'java'
+
 group 'com.github.cqjjjzr'
 version '1.0-SNAPSHOT'
 
