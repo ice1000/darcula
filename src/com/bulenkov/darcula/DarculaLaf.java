@@ -225,7 +225,7 @@ public final class DarculaLaf extends BasicLookAndFeel {
       properties.load(stream);
       stream.close();
 
-      HashMap<String, Object> darculaGlobalSettings = new HashMap<String, Object>();
+      HashMap<String, Object> darculaGlobalSettings = new HashMap<>();
       final String prefix = "darcula.";
       for (String key : properties.stringPropertyNames()) {
         if (key.startsWith(prefix)) {
