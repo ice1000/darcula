@@ -478,7 +478,6 @@ public class DarculaTitlePane extends JComponent {
       }
       int titleLength = SwingUtilities2.stringWidth(rootPane, fm, theTitle);
       SwingUtilities2.drawString(rootPane, g, theTitle, xOffset, yOffset);
-      xOffset += leftToRight ? titleLength + 5 : -5;
     }
   }
 
