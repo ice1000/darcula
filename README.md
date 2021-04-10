@@ -1,5 +1,8 @@
 # Darcula Laf
 
+Note: jcenter is shutting down and this library is being republished to maven central by another person.
+See [#1](https://github.com/ice1k/darcula/issues/1).
+
 [![](https://jitpack.io/v/ice1k/darcula.svg)](https://jitpack.io/#ice1k/darcula)
 [![Download](https://api.bintray.com/packages/ice1000/ice1000/darcula/images/download.svg?version=2018.2)](https://bintray.com/ice1000/ice1000/darcula/2018.2/link)
 
